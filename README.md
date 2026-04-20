@@ -24,4 +24,4 @@ public int Peso { get; set; }
 Assim, cada instância do componente pode ter um valor diferente de incremento.
 
 
-![Print do terminal rodando o projeto](./EcoMonitor.png)
+![Print do terminal rodando o projeto](./.png)
