@@ -22,3 +22,6 @@ Exemplo:
 public int Peso { get; set; }
 
 Assim, cada instância do componente pode ter um valor diferente de incremento.
+
+
+[EcoMonitor](Ecomonitor.png)
